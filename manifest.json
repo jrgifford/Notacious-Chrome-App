@@ -1,0 +1,19 @@
+{
+  "name": "Notacious",
+  "description": "Delicious Note taking",
+  "version": "1",
+  "app": {
+    "urls": [
+      "*://notacio.us",
+      "*://www.notacio.us"
+    ],
+    "launch": {
+      "web_url": "http://notacio.us"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+  ]
+}
